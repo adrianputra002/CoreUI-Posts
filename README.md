@@ -1,4 +1,5 @@
-Project Front End CoreUI Admin Dashboard
+Project Admin Dashboard menggunakan CoreUI
+Side menu Posts sudah ditambahkan pada sidebar
 
 Cara menjalankan :
 1. Download & Ekstrak Zip project 
